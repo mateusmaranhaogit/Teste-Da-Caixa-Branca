@@ -1,18 +1,15 @@
-## Getting Started
+## Grafo
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+![Grafo-Teste-Caixa-Branca](https://github.com/mateusmaranhaogit/Teste-Da-Caixa-Branca/assets/101333760/65313e9b-190d-4abd-bd14-04215e0c346b)
 
-## Folder Structure
+## Cálculo da Complexidade Ciclomático
 
-The workspace contains two folders by default, where:
+V(G) = 2 REGIÕES. V(G) = 11 ARESTAS. V(G) = 10 NÓS. CÁLCULO: V(G) = (ARESTAS – NÓS) + 2 = 4
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Cálculo: V(G) = (11 - 10) + 2 = 3
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Sequências
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- 1; 2; 3
+- 1; 2; 4; 5; 6; 7; 8; 6
+- 1; 2; 4; 5; 6; 7; 8; 9; 10
