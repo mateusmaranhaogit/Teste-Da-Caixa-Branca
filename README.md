@@ -1,18 +1,22 @@
-## Getting Started
+# Sobre o repositório
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este repositório contém um sistema de autenticação de usuário em Java que se conecta a um banco de dados MySQL para verificar as credenciais de login e senha de um usuário.
 
-## Folder Structure
+## Conteúdo do Repositório
 
-The workspace contains two folders by default, where:
+- `src/TesteCaixaBranca.java`: Contém o código-fonte;
+- `README.md`: Informações sobre o repositório (Única em cada Branch);
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+# O quê foi feito em cada Branch:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Branch main
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Foi feito o teste estático e apontamentos de erros econtrados.
 
-## Dependency Management
+## Branch "ETAPA-2"
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Construção do grafo, cálculo de complexidade ciclomático e sequências em base do projeto.
+
+## Branch "ETAPA-3"
+
+Documentação do código-fonte.
